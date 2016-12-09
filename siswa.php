@@ -1,5 +1,8 @@
 <?php
 
+//update 9 Dec  2016
+//IndraGumelar
+
 require_once('lib/DBClass.php');
 require_once('lib/m_siswa.php');
 
